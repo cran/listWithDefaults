@@ -1,0 +1,8 @@
+d8e9d8165c9b4a3fb9ffb9b0e0e543d0 *ChangeLog
+b36ff06f7c55c141b9394e17dd46d4ba *DESCRIPTION
+af79944138a509314f6527d4a3fed271 *NAMESPACE
+b9cb7a04153862123742cd211062600e *R/listWithDefaults.R
+e001a46332ce12248df61fcbc242fc8e *inst/NEWS.Rd
+bbe009811cf678232d752bb9340d9a4b *man/listWithDefaults.Rd
+22e14474c4be9e3246b5bff9c9bac339 *tests/testthat.R
+b96699ad0aba4e8924022f8523daff63 *tests/testthat/test.listWithDefault.R
