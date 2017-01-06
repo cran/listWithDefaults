@@ -1,8 +1,9 @@
-d8e9d8165c9b4a3fb9ffb9b0e0e543d0 *ChangeLog
-b36ff06f7c55c141b9394e17dd46d4ba *DESCRIPTION
-af79944138a509314f6527d4a3fed271 *NAMESPACE
-b9cb7a04153862123742cd211062600e *R/listWithDefaults.R
-e001a46332ce12248df61fcbc242fc8e *inst/NEWS.Rd
-bbe009811cf678232d752bb9340d9a4b *man/listWithDefaults.Rd
-22e14474c4be9e3246b5bff9c9bac339 *tests/testthat.R
-b96699ad0aba4e8924022f8523daff63 *tests/testthat/test.listWithDefault.R
+944d23dcd07a75d89d5a04789eb1318d *DESCRIPTION
+a23f006f5f5923d6eaff9b51a9859145 *NAMESPACE
+b2f44f83f73317c104f307abe040ddb5 *NEWS.md
+95c128ac856da89d903caaf265cedab9 *R/listWithDefaults.R
+9348590ad2fd7fd20c6d699bb2fd6777 *README.md
+ece02415720b9a32f95be380966e99ad *inst/NEWS.Rd
+4505a0711e52a399a4cdba957ca7f382 *man/listWithDefaults.Rd
+6a844eff736635c9cf62317c09848b40 *tests/testthat.R
+c70059c7734a4c93fca20f7582691398 *tests/testthat/test.listWithDefault.R
