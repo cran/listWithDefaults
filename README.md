@@ -1,2 +1,2 @@
+[![Travis-CI Build Status](https://travis-ci.org/drknexus/listWithDefaults.svg?branch=master)](https://travis-ci.org/drknexus/listWithDefaults)
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/listWithDefaults)](https://cran.r-project.org/package=listWithDefaults)
-[![Coverage Status](https://img.shields.io/codecov/c/github/drknexus/listWithDefaults/master.svg)](https://codecov.io/github/drknexus/listWithDefaults?branch=master)]
